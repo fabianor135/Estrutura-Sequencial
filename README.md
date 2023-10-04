@@ -25,6 +25,7 @@ de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
 ![exer3](exer3.jpg)
 
 4.Exercicio:
+
 Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por
 hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas
 decimais.
