@@ -18,8 +18,17 @@ Considere o valor de π = 3.14159
 
 
 3.Exercicio:
+
 Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto
 de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
 
 ![exer3](exer3.jpg)
+
+4.Exercicio:
+Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por
+hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas
+decimais.
+
+![exer4](exer4.jpg)
+
 
