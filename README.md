@@ -42,6 +42,7 @@ código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 
 
 
 6.Exercicio:
+
 Fazer um programa para ler as duas notas que um aluno obteve no primeiro e segundo semestres de uma disciplina anual.
 Em seguida , mostrar a nota final do aluno seja inferior a 60.00, mostra a mensagem "REPROVADO", conforme exemplos.Todos os 
 valores devem ter uma casa decimal.
